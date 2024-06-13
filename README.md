@@ -1,8 +1,5 @@
 ![Yoy Lopez Tuesta](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/172577623/7ffc34c1-284f-4e5b-9854-7d2e89abc876)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Yoy</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Yoy -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
