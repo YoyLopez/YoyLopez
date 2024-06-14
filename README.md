@@ -16,6 +16,7 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+|Power BI|<a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a>|<a href="SVG/Power-BI.svg"><img src="SVG/Power-BI.svg" height="25"/></a>|
 
 ### ⚙️ &nbsp;GitHub Analytics
 
