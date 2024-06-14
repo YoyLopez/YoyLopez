@@ -22,7 +22,7 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![ARCGIS-logo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/172577623/2d683339-59bc-4eec-bd0d-63b8eac4c5a7)&nbsp;
+![ARCGIS (1)-logo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/172577623/df567ac9-d825-49c8-9a95-6e42d7cf21db)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
