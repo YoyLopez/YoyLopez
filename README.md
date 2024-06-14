@@ -6,7 +6,7 @@
 Economics student at the Pontifical Catholic University of Peru, with a strong focus on microeconomics, statistics, and data analysis. Solid experience in analysis and reporting. Skilled communicator and dedicated collaborator, motivated by learning and professional growth in dynamic business environments.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![17dc8x](https://github.com/YoyLopez/credit_risk_project_using_python/assets/172577623/e4c13a1f-6329-4996-94e3-b994d7b018cf)
 
 ### 🚀 &nbsp; Skills
 
