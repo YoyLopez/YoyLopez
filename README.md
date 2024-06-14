@@ -6,8 +6,6 @@
 Economics student at the Pontifical Catholic University of Peru, with a strong focus on microeconomics, statistics, and data analysis. Solid experience in analysis and reporting. Skilled communicator and dedicated collaborator, motivated by learning and professional growth in dynamic business environments.
 
 
-![17dc8x](https://github.com/YoyLopez/credit_risk_project_using_python/assets/172577623/e4c13a1f-6329-4996-94e3-b994d7b018cf)
-
 ### 🚀 &nbsp; Skills
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -26,3 +24,4 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 
 
 
+![17dc8x](https://github.com/YoyLopez/credit_risk_project_using_python/assets/172577623/e4c13a1f-6329-4996-94e3-b994d7b018cf)
