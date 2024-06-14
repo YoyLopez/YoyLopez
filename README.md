@@ -15,8 +15,8 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
