@@ -21,7 +21,7 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Microsoft Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![Stata](https://img.shields.io/badge/Stata-B7472A?style=for-the-badge&logo=stata&logoColor=white)&nbsp;
+![Stata](https://img.shields.io/badge/Stata-14354C?style=for-the-badge&logo=Stata&logoColor=white)&nbsp;
 
 
 ![17dc8x](https://github.com/YoyLopez/credit_risk_project_using_python/assets/172577623/e4c13a1f-6329-4996-94e3-b994d7b018cf)
