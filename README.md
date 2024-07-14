@@ -24,4 +24,4 @@ Economics student at the Pontifical Catholic University of Peru, with a strong f
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=VisualBasic&logoColor=purple)&nbsp;
 
 
-![17dc8x](https://github.com/YoyLopez/credit_risk_project_using_python/assets/172577623/e4c13a1f-6329-4996-94e3-b994d7b018cf)
+
