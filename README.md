@@ -1,5 +1,3 @@
-<img width="1200" height="489" alt="PUCP-launches-online-Master-of-Computer-Science-the-first-degree-from-a-Peruvian-university-on-Coursera" src="https://github.com/user-attachments/assets/efef6539-1919-4be6-b73c-5c1b95b6fb30" />
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
