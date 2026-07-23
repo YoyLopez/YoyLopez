@@ -17,7 +17,8 @@ Bachelor's degree in Economics from the Pontifical Catholic University of Peru, 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Looker](https://img.shields.io/badge/Looker-%2300C4CC.svg?&style=for-the-badge&logo=Looker&logoColor=white)&nbsp;
 ![Microsoft Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=VisualBasic&logoColor=purple)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=Azure&logoColor=white)&nbsp;
+
