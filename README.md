@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Economics student at the Pontifical Catholic University of Peru, with a strong focus on microeconomics, statistics, and data analysis. Solid experience in analysis and reporting. Skilled communicator and dedicated collaborator, motivated by learning and professional growth in dynamic business environments.
+Economics graduate from the Pontifical Catholic University of Peru with a strong foundation in quantitative methods and financial analysis. Experienced in data analytics, financial process automation, and reporting within the banking industry. Passionate about leveraging Business Intelligence and data-driven solutions to optimize decision-making and create business value.
 
 
 ### 🚀 &nbsp; Skills
