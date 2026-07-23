@@ -1,9 +1,9 @@
-![Yoy Lopez Tuesta](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/172577623/7ffc34c1-284f-4e5b-9854-7d2e89abc876)
+<img width="1400" height="350" alt="1758896050301" src="https://github.com/user-attachments/assets/9f6e44ad-89bf-4c0a-881c-1a1f74052b45" />
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Economics graduate from the Pontifical Catholic University of Peru with a strong foundation in quantitative methods and financial analysis. Experienced in data analytics, financial process automation, and reporting within the banking industry. Passionate about leveraging Business Intelligence and data-driven solutions to optimize decision-making and create business value.
+Bachelor's degree in Economics from the Pontifical Catholic University of Peru, with a strong foundation in quantitative methods and financial analysis. Experienced in data analytics, financial process automation, and reporting within the banking industry. Passionate about leveraging Business Intelligence and data-driven solutions to optimize decision-making and create business value.
 
 
 ### 🚀 &nbsp; Skills
