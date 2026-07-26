@@ -24,4 +24,6 @@ Bachelor's degree in Economics from the Pontifical Catholic University of Peru, 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
-
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)&nbsp;
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)&nbsp;
+![Bloomberg](https://img.shields.io/badge/Bloomberg-1E1E1E?style=for-the-badge&logo=bloomberg&logoColor=white)&nbsp;
