@@ -11,17 +11,17 @@ Bachelor's degree in Economics from the Pontifical Catholic University of Peru, 
 ![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=white)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![ArcGIS](https://img.shields.io/badge/ArcGIS-8e411a2a?style=for-the-badge&logo=ArcGIS&logoColor=yelow)&nbsp;
-![Microsoft Acces](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
+![ArcGIS](https://img.shields.io/badge/ArcGIS-8e411a2a?style=for-the-badge&logo=arcgis&logoColor=white)&nbsp;
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
-![Looker](https://img.shields.io/badge/Looker-%2300C4CC.svg?&style=for-the-badge&logo=Looker&logoColor=white)&nbsp;
-![Microsoft Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=VisualBasic&logoColor=purple)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=Azure&logoColor=white)&nbsp;
+![Looker](https://img.shields.io/badge/Looker-%2300C4CC.svg?&style=for-the-badge&logo=looker&logoColor=white)&nbsp;
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)&nbsp;
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=visualbasic&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
 
