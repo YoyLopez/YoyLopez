@@ -7,4 +7,33 @@ Bachelor's degree in Economics from the Pontifical Catholic University of Peru, 
 
 ### 🚀 &nbsp; Skills
 
-<p align="left"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" /> <img src="https://img.shields.io/badge/ArcGIS-8e411a2a?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" /> <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" /> <img src="https://img.shields.io/badge/Looker-%2300C4CC.svg?&style=for-the-badge&logo=looker&logoColor=white" alt="Looker" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" /> <img src="https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=visualbasic&logoColor=white" alt="Visual Basic" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" /> <img src="https://img.shields.io/badge/Bloomberg-1E1E1E?style=for-the-badge&logo=bloomberg&logoColor=white" alt="Bloomberg" /></p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+    <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
+    <td><img src="https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" /></td>
+    <td><img src="https://img.shields.io/badge/ArcGIS-8e411a2a?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" /></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" /></td>
+    <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" /></td>
+    <td><img src="https://img.shields.io/badge/Looker-%2300C4CC.svg?&style=for-the-badge&logo=looker&logoColor=white" alt="Looker" /></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" /></td>
+    <td><img src="https://img.shields.io/badge/Visual_Basic-4A154B?style=for-the-badge&logo=visualbasic&logoColor=white" alt="Visual Basic" /></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_Azure-0FAAFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /></td>
+    <td><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /></td>
+    <td><img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" /></td>
+    <td><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" /></td>
+    <td><img src="https://img.shields.io/badge/Bloomberg-1E1E1E?style=for-the-badge&logo=bloomberg&logoColor=white" alt="Bloomberg" /></td>
+  </tr>
+</table>
