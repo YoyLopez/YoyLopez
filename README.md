@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Bachelor's degree in Economics from the Pontifical Catholic University of Peru, with a strong foundation in quantitative methods and financial analysis. Experienced in data analytics, financial process automation, and reporting within the banking industry. Passionate about leveraging Business Intelligence and data-driven solutions to optimize decision-making and create business value...
+Bachelor's degree in Economics from the Pontifical Catholic University of Peru, with a strong foundation in quantitative methods and financial analysis. Experienced in data analytics, financial process automation, and reporting within the banking industry. Passionate about leveraging Business Intelligence and data-driven solutions to optimize decision-making and create business value.
 
 
 ### 🚀 &nbsp; Skills
